@@ -239,7 +239,7 @@ st.sidebar.markdown("## Total Wage in Ether")
 # rate from the candidate database (`candidate_database[person][3]`) by the
 # value of the `hours` variable
 # YOUR CODE HERE
-wage = candidate_database[person][3] * hours
+wage = candidate_database[person][3]*hours
 # @TODO
 # Write the `wage` calculation to the Streamlit sidebar
 # YOUR CODE HERE
@@ -283,7 +283,7 @@ if st.sidebar.button("Send Transaction"):
 
 # The function that starts the Streamlit application
 # Writes FinTech Finder candidates to the Streamlit page
-get_people()
+get_people(w3)
 
 ################################################################################
 # Step 3: Inspect the Transaction
