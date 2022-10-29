@@ -147,8 +147,8 @@ st.sidebar.write(account.address)
 # Call `get_balance` function and pass it your account address
 # Write the returned ether balance to the sidebar
 # YOUR CODE HERE
-eth_balance = w3.eth.getBalance(account.address)
-st.sidebar.write(eth_balance)
+ether_balance = w3.eth.getBalance(account.address)
+st.sidebar.write(ether_balance)
 ##########################################
 
 # Create a select box to chose a FinTech Hire candidate
