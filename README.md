@@ -46,7 +46,7 @@ or git bash.
 
 Candidate selection and hours hired. Note resulting successful hash code written to streamlit application sidebar.
  
-![streamlit image 1](images/mod19-1.png)
+![streamlit](images/mod19one.png)
 
 ### Image of Validating chain
 ![streamlit image 1](images/mod19-1.png)
