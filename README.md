@@ -48,9 +48,20 @@ Candidate selection and hours hired. Note resulting successful hash code written
  
 ![streamlit](Images/mod19one.png)
 
-### Image of Validating chain
-![streamlit image 1](images/mod19-1.png)
+---
+ganache image : Account (index 0) used. Address, balance , transaction(tx) count.
 
+![ganache image 1](Images/mod19two.png)
+
+---
+ganache image : Transaction
+
+![ganche image 2](Images/mod19three.png)
 
 # License
 [MIT](license)
+
+## Contributers
+Hugo Velazquez
+
+linkedin.com/in/hugoghvelazquez
